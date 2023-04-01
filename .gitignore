@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/inspectionProfiles .idea/LED-Mask-Client.iml .idea/misc.xml .idea/modules.xml .idea/vcs.xml .idea/workspace.xml
+.idea/
