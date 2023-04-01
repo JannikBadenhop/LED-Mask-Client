@@ -7,10 +7,6 @@ I suspect the mask is the same as many other masks with exactly the same number 
 the same dimensions (ca. 22cm x 18cm x 5cm) and the same weight (ca. 303g).  ;)
 
 ![SimpleCount](https://github.com/JannikBadenhop/LED-Mask-Client/blob/5ed47d1fb7571de169b6510e39822b331b9e8486/img/count.gif?raw=true "Count up gif.")
-
-Thanks also to [shawnrancatore](https://github.com/shawnrancatore) with [shining-mask](https://github.com/shawnrancatore/shining-mask)
-on whose code I was able to orientate myself.
-
 ## Getting Started
 
 To use this project, you will need a BLE-enabled device that can run python, which not every adapter / OS supports. \
@@ -36,3 +32,6 @@ pip install -r requirements.txt
 If you would like to contribute to this project, please feel free to submit a pull request.
 We welcome any contributions that improve the project or add new features.
 
+## Thanks
+mj99 - [BLE commands](https://www.reddit.com/r/ReverseEngineering/comments/lr9xxr/help_me_figure_out_how_to_reverse_engineer_the/h14nm39/)
+shawnrancatore - [Sample code](https://github.com/shawnrancatore/shining-mask)
