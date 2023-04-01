@@ -6,7 +6,7 @@ Bluetooth Low Energy (BLE).
 I suspect the mask is the same as many other masks with exactly the same number of LEDs (2074) 
 the same dimensions (ca. 22cm x 18cm x 5cm) and the same weight (ca. 303g).  ;)
 
-![SimpleCount](https://github.com/JannikBadenhop/LED-Mask-Client/blob/5ed47d1fb7571de169b6510e39822b331b9e8486/img/count.gif?raw=true "Count up gif.")
+![SimpleCount](img/count.gif?raw=true "Count up gif.")
 
 Thanks also to [shawnrancatore](https://github.com/shawnrancatore) with [shining-mask](https://github.com/shawnrancatore/shining-mask)
 on whose code I was able to orientate myself.
