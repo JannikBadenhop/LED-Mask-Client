@@ -23,7 +23,7 @@ Also, install the requirements txt with\
 pip install -r requirements.txt
 ``
 
-# Features
+## Features
 
 - [x] Switching between images saved on the mask
 - [ ] Uploading new images
