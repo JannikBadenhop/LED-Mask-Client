@@ -35,5 +35,5 @@ If you would like to contribute to this project, please feel free to submit a pu
 We welcome any contributions that improve the project or add new features.
 
 ## Thanks
-mj99 - [BLE commands](https://www.reddit.com/r/ReverseEngineering/comments/lr9xxr/help_me_figure_out_how_to_reverse_engineer_the/h14nm39/)
-shawnrancatore - [Sample code](https://github.com/shawnrancatore/shining-mask)
+- mj99 - [BLE commands](https://www.reddit.com/r/ReverseEngineering/comments/lr9xxr/help_me_figure_out_how_to_reverse_engineer_the/h14nm39/)
+- shawnrancatore - [Sample code](https://github.com/shawnrancatore/shining-mask)
