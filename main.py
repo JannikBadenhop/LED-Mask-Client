@@ -35,6 +35,17 @@ async def discover():
 async def send_command(client, command:str):
     await client.write_gatt_char("d44bc439-abfd-45a2-b575-925416129600", command)
 
+async def send_stream(client, data:str):
+    await client.write_gatt_char("d44bc439-abfd-45a2-b575-92541612960a", command)
+
+class Color:
+    red =   b'\xff\0\0'
+    green = b'\0\xff\0'
+    blue =  b'\0\0\xff'
+    white = b'\xff\xff\xff'
+    black = b'\0\0\0'
+
+
 async def main():
     # await discover()
     # exit()
@@ -61,6 +72,8 @@ async def main():
     # test_commands = [image(i) for i in range(100)]
     # test_commands = [animation(i) for i in range(80)]
     test_commands = [light(0), light(50)]
+
+
 
     for i, cmd in enumerate(test_commands):
         print(i)
